@@ -8,3 +8,5 @@ I work part-time as a Software Engineer for [sariKNOTsari](https://sariknotsari.
 ➤ Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-yang-founder/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 https://user-images.githubusercontent.com/52507573/157376985-52690061-71c2-41a2-9792-b9a3599f3064.mp4
+
+![snake gif](https://github.com/peteryangfounder/peteryangfounder/blob/output/github-contribution-grid-snake.gif)
