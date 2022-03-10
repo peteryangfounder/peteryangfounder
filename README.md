@@ -8,7 +8,9 @@ I work part-time as a Software Engineer for [sariKNOTsari](https://sariknotsari.
 
 ➤ Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-yang-founder/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### Social Media
+**P.S.** I did [**@cs50**](https://github.com/cs50). You can view my certificate [**here**](https://certificates.cs50.io/f0344ece-00b8-4531-8bdf-5d17eb46bf7c.pdf?size=letter). :arrow_left:
+
+### Social Media :icecream:
 
 <a href="https://youtu.be/vwFqmNtdRZ8">
   <img src="https://img.shields.io/badge/TEDx Talk-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Peter Yang TEDx Talk YouTube" />
@@ -30,88 +32,88 @@ I work part-time as a Software Engineer for [sariKNOTsari](https://sariknotsari.
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Peter Yang Email" />
 </a>
 
-### Tech Stack
-<a href="#">
+### Tech Stack :sandwich:
+<a href="https://www.javascript.com/">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
 </a>
 
-<a href="#">
+<a href="https://nodejs.org/en/">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 </a>
 
-<a href="#">
+<a href="https://www.npmjs.com/">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 </a>
 
-<a href="#">
+<a href="https://expressjs.com/">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
 </a>
 
-<a href="#">
+<a href="https://www.mongodb.com/">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </a>
 
-<a href="#">
+<a href="https://www.heroku.com/">
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
 </a>
 
-<a href="#">
+<a href="https://aws.amazon.com/">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </a>
 
-<a href="#">
+<a href="https://cloud.google.com/">
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 </a>
 
-<a href="#">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </a>
 
-<a href="#">
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </a>
 
-<a href="#">
+<a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </a>
 
-<a href="#">
+<a href="https://jquery.com/">
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
 </a>
 
-<a href="#">
+<a href="https://www.cplusplus.com/">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 </a>
 
-<a href="#">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </a>
 
-<a href="#">
+<a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 </a>
 
-<a href="#">
+<a href="https://git-scm.com/">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </a>
 
-<a href="#">
+<a href="https://github.com/">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="#">
+<a href="https://code.visualstudio.com/">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
 </a>
 
-<a href="#">
+<a href="https://www.microsoft.com/en-ca/windows">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </a>
 
-<a href="#">
+<a href="https://www.postman.com/">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </a>
 
-<a href="#">
+<a href="https://www.figma.com/">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </a>
 
