@@ -8,7 +8,7 @@ I work part-time as a Software Engineer for [sariKNOTsari](https://sariknotsari.
 
 ➤ Connect with me on [LinkedIn](https://www.linkedin.com/in/peter-yang-founder/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-[![Top Langs](https://github-readme-stats-bay-zeta-34.vercel.app/api/top-langs/?username=peteryangfounder)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-bay-zeta-34.vercel.app/api/top-langs/?username=peteryangfounder&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 https://user-images.githubusercontent.com/52507573/157376985-52690061-71c2-41a2-9792-b9a3599f3064.mp4
 
