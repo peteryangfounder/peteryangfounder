@@ -24,6 +24,10 @@ I work part-time as a Software Engineer for [sariKNOTsari](https://sariknotsari.
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Peter Yang Medium" />
 </a>
 
+<a href="https://peteryangauthor.com/">
+  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="Peter Yang WordPress Author Site" />
+</a>
+
 <a href="https://twitter.com/peteryang854">
   <img src="https://img.shields.io/badge/TWITTER-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Peter Yang Twitter" />
 </a>
