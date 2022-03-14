@@ -1,6 +1,6 @@
 ![alt text](https://github.com/peteryangfounder/peteryangfounder/blob/main/header.png?raw=true)
 
-## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Peter Yang `(He/Him)` 
+## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm [Peter Yang](https://www.linkedin.com/in/peter-yang-founder/) `(He/Him)` 
 
 I'm a high school student from Hamilton, Ontario. I'm also the international #1 bestselling author of [*The Art of Writing*](https://amzn.to/3HrekL3) and the CEO of [Reviewerly, Inc.](https://reviewerly.app/) My book has sold **4,000+** copies worldwide and gained close to **200** reviews on Amazon.com, outranking industry classics like *The Elements of Style*. My startup received **$3,000** in seed funding from [McMaster University's Forge Business Incubator](https://theforge.mcmaster.ca/)—where I set a record as the **youngest** founder to ever get accepted—and was selected by **Shopify** as a [Staff Pick](https://www.linkedin.com/posts/peter-yang-founder_shopify-diversity-canadian-activity-6842160402055385088-wxKR). My company has also been featured on **Global News Radio**, The Hamilton Spectator, Cable 14, and the front page of Product Hunt. I was recognized as a **finalist** in Innovation Factory's 2020 LiONS LAIR pitch competition and have been fortunate enough to deliver talks at the DeGroote School of Business, Hack the Hammer II, and [TEDxMcMasterU](https://youtu.be/vwFqmNtdRZ8).
 
